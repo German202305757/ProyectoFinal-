@@ -1,5 +1,5 @@
 # Dosificacion de tareas para el Proyecto Final
-## German - 
-## Lennin - 
-## Pablo - 
-## Alvaro - 
+## German - Usuarios, Adoptantes
+## Lennin - Citas, Solicitudfes
+## Pablo - Mascotas, Historial Medico
+## Alvaro - Pendiente de asignacion...
