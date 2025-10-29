@@ -2,4 +2,4 @@
 ## German - Usuarios, Adoptantes
 ## Lennin - Citas, Mascotas
 ## Pablo - Solicitudes, Historial Medico
-## Alvaro - Index con usuarios, Menu de Paginas...
+## Alvaro - Index con usuarios, Menu de Páginas
